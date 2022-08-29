@@ -1,6 +1,6 @@
 ![IronHack_Logo](https://user-images.githubusercontent.com/92721547/180667578-7208994e-3fdf-4006-8481-d0723b917662.png)
 
-# Lab | Manipulating Data from Multiple Sources 
+# Lab | PowerBI - Manipulating data from multiple sources 
 
 Refer to the data source `Adventureworks_Database.xlsx`  and `Budget.pdf` in the `files_for_lab` folder for this lab.
 
