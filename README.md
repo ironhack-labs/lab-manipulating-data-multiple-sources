@@ -2,7 +2,7 @@
 
 # Lab | Manipulating Data from Multiple Sources 
 
-Refer to the data source [Adventureworks_Database.xlsx](https://github.com/student-IH-labs-and-stuff/lab_manipulating_data_multiple_sources/blob/main/Files_for_lab/AdventureWorks_Database.xlsx) and [Budget_pdf](https://github.com/student-IH-labs-and-stuff/lab_manipulating_data_multiple_sources/blob/main/Files_for_lab/Budget_pdf.pdf) in the `files_for_lab` folder for this lab.
+Refer to the data source `Adventureworks_Database.xlsx`  and `Budget.pdf` in the `files_for_lab` folder for this lab.
 
 ### Instructions 
 
