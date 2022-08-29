@@ -22,9 +22,9 @@ The goal of this lab is to connect data from multiple sources and create visuali
 3. Now connect the database `Budget_pdf` to your PowerBI workbook. Edit the column names as appropriate and merge all tables from the pdf into one query named `Budget_pdf`.
 4. Plot a bar chart comparison of the Budget against actual sales and filter out the year 2017. 
 5. Open your MySQL client and create the database classic models by running the script `mysqlsampledata` located in the `files_for_lab` folder. The next step is to connect to the SQL database `classicmodels` from PowerBI as a new data source and select the following tables: 
-- offices
-- payments
-- products 
+   - offices
+   - payments
+   - products 
 Connect the `Classicmodels offices` table to the `Territories` table in AdventureWorks and the `Classicmodels Payments` table to the `sales` table in Adventureworks using the appropriate relationships.
 6. Create a report (table) to show countries where both Classicmodels and Adventureworks have offices or operate in? 
 7. Use a bar chart to compare the total sales of both companies, and filter each company's sales to 1 year only.  
